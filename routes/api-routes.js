@@ -37,6 +37,6 @@ router.route("/workouts").get(findAll).post(create);
 
 router.route("/workouts/:id").put(updateWorkout);
 
-router.route("/workouts/range").get(findAll);
+router.route("/workouts/range").get(findAll)
 
 module.exports = router;

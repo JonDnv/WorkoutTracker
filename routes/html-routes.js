@@ -7,7 +7,9 @@ const sendPage = (res, page) => {
 
 router.get("/stats", (req, res) => sendPage(res, "../public/stats.html"));
 
-router.get("/exercise", (req, res) => sendPage(res, "../public/exercise.html"));
+router.get("/exercise", (req, res) =>
+  sendPage(res, "../public/exercise.html")
+);
 
 router.get("/", (req, res) => sendPage(res, "../public/index.html"));
 
