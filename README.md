@@ -11,16 +11,13 @@ A webapp that will track workouts with duration and weight used. A consumer will
 The user should be able to:
 
 * Add exercises to the most recent workout plan.
-
 * Add new exercises to a new workout plan.
-
 * View the combined weight of multiple exercises from the past seven workouts.
-
 * View the total duration of each workout from the past seven workouts.
 
 ## Links
 
-* [Workout Tracker]()
+* [Workout Tracker](https://wessex-workout-tracker.herokuapp.com/)
 * [Github Repository](https://github.com/JonDnv/WorkoutTracker)
   
 ---
