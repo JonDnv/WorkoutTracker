@@ -25,7 +25,7 @@ The user should be able to:
 ## Mock Up
 
 The following image shows the finished site:
-![Website]()
+![Website](./assets/Fitness-Tracker.png)
 
 ---
 
